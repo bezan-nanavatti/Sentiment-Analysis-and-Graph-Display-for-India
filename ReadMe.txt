@@ -12,4 +12,4 @@ If the .exe file cannot be viewed or downloaded you can use the setup.py file to
 I have included a program for a decision tree and multiple options for sentiment analysis if you need it.
 The sentiment analysis files and programs work, but you'll need to add the required csv files and you can change them to whatever name you'd like. there's two or three sentiment analysis programs, choose which one you like and edit the csv accordingly.
 You might have to add code for calculations within your csv files as per requirement or your preference. ( Good Luck ;)
-P.S. The .ipynb files might be in a single kernel unit and not divided, you'll need to split that up, and if you're here, then it should be rather easy to find the right places for the same.
+P.S. The .ipynb files might be in a single kernel unit and not divided, you'll need to split that up, and if you're here, then it should be rather easy to find the right places for the same. I will include a pdf of our project that includes where we submitted it from [our college], abstract, intro, and images, etc. that are needed to explain the project
